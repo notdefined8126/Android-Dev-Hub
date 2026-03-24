@@ -4,13 +4,19 @@ Welcome to the first release of Android Dev Hub — a platform built for Android
 
 ✨ Features
 
-🌍 Global Chat Connect and chat with Android enthusiasts and developers worldwide.
+• Android Mods Section – Discover the latest Android ROMs, mods, tweaks, and customization ideas.
 
-🔧 Android Mods Section Discover the latest ROMs, mods, tweaks, and customization ideas.
+• Termux Hacks – Powerfull pentesting tools for Termux Android. Ex- Phishing, Brute force, Social media Hunter, Etc.
 
-🧑‍💻 Developer Resources Access useful tools, tips, and learning materials for Android development.
+• Magisk Modules – Latest Magisk Mods to tweak your device performance and unlock it's true Potential.
 
-🎨 Clean & Simple UI Built with modern Android components for a smooth user experience.
+• Developer Resources – Access useful tools, tips, and learning materials for Android development.
+
+• Clean and Simple UI – Built with modern Android components for a smooth experience.
+
+• Global Chat – Connect and chat with Android enthusiasts and developers worldwide.
+
+• Private Chats – One on One chat for users to communicate privately.
 
 📱 Built With
 
